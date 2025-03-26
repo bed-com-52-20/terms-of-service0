@@ -3,7 +3,7 @@ name: Jekyll Deploy
 on:
   push:
     branches:
-      - main  # Change if deploying from another branch
+      - main 
 
 jobs:
   build-deploy:
