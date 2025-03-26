@@ -3,5 +3,3 @@
 .jekyll-cache
 .jekyll-metadata
 vendor
-*
-!.gitignore
